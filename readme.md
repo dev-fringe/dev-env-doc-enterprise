@@ -1,6 +1,4 @@
 # 기업 개발 환경 문서
-
-
 1. Notes
 windows 64bit
 금일의 최신 버전 기준
@@ -33,4 +31,4 @@ There are many sources of help in the community and ecosystem.
 »Find companies that provide training and consulting
 »Investigate paid support options with Long Term Support.
 
-Since : 13-Oct-2016
+#####Since : 13-Oct-2016
